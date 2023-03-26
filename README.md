@@ -2,6 +2,20 @@
 
 Introdução aos conceitos do JavaScript
 
-Aula-01 
-'aprendendo a criar comentários em JavaScript, menssagens no console e importação do arquivo js para o html.'
+Exercício-01 
+
+
+# 💻 Sobre o desafio
+
+<aside>
+💡 O que será abordado nesse desafio:
+
+- Variáveis;
+- Operações matemáticas;
+- Operadores comparativos;
+- Condicional.
+
+</aside>
+
+https://user-images.githubusercontent.com/109978724/227765224-7ac16678-4977-4e22-8982-1e2aaf96334b.mp4
 
